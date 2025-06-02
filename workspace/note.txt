@@ -1,0 +1,3 @@
+ source env/bin/activate
+
+ python3 -m pip config set global.break-system-packages true [fore pip install to install global env.] 
